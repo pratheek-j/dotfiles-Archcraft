@@ -1,0 +1,21 @@
+[2022-10-19 23:07:08.595] [exthost] [info] Extension host with pid 37212 started
+[2022-10-19 23:07:08.595] [exthost] [info] Skipping acquiring lock for /home/pratheek/.config/VSCodium/User/workspaceStorage/f7b80c64592d4244ee8ea17311714502.
+[2022-10-19 23:07:09.558] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-19 23:07:09.559] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-19 23:07:09.559] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onCommand:code-runner.run'
+[2022-10-19 23:07:09.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: '*'
+[2022-10-19 23:07:09.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+[2022-10-19 23:07:09.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: '*'
+[2022-10-19 23:07:14.422] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-10-19 23:07:14.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-10-19 23:07:14.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-10-19 23:07:15.404] [exthost] [info] Eager extensions activated
+[2022-10-19 23:07:15.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:15.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:15.891] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:15.892] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:15.892] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:15.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-19 23:07:19.277] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-19 23:07:24.634] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-19 23:07:24.736] [exthost] [info] Extension host with pid 37212 exiting with code 0

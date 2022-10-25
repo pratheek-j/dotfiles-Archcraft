@@ -1,0 +1,9 @@
+[2022-10-20 21:23:33.345] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
+product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
+[2022-10-20 21:23:47.418] [renderer1] [error] Error while registering log channel file:///home/pratheek/.config/VSCodium/logs/20221020T212324/userDataSync.log Timed out while waiting for file to be created
+[2022-10-20 21:24:05.140] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden
+product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow
+[2022-10-20 21:24:12.458] [renderer1] [warning] {}
+[2022-10-20 21:24:18.692] [renderer1] [error] Error while registering log channel file:///home/pratheek/.config/VSCodium/logs/20221020T212324/userDataSync.log Timed out while waiting for file to be created

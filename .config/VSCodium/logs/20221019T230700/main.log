@@ -1,0 +1,4 @@
+[2022-10-19 23:07:00.531] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-19 23:07:05.401] [main] [info] Starting extension host with pid 37212 (fork() took 34 ms).
+[2022-10-19 23:07:24.744] [main] [info] Waiting for extension host with pid 37212 to exit.
+[2022-10-19 23:07:24.857] [main] [info] Extension host with pid 37212 exited with code: 0, signal: null.

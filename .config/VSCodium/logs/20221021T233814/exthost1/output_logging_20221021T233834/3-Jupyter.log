@@ -1,0 +1,22 @@
+VSCodium (1.72.2, undefined, desktop)
+Jupyter Extension Version: 2022.10.110.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/pratheek/Code
+info 23:38:39.354: ZMQ install verified.
+info 23:38:40.872: LSP Notebooks experiment is disabled -- Pylance disabled or not installed
+info 23:38:43.328: Got empty env vars with python /bin/python in 1797ms
+info 23:38:43.344: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 23:39:30.041: Preferred Remote kernel for /home/pratheek/Code/test.ipynb is undefined
+info 23:39:30.041: Preferred Remote kernel for /home/pratheek/Code/test.ipynb is undefined
+info 23:39:30.041: Find preferred kernel for /home/pratheek/Code/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.8"}} & preferred interpreter /bin/python
+info 23:39:30.056: Preferred Remote kernel for /home/pratheek/Code/test.ipynb is undefined
+info 23:39:30.056: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, [object Object], false, false)
+info 23:39:30.057: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/pratheek/Code/test.ipynb
+info 23:39:38.785: Shutting down notebooks for b014c946-d511-4fb0-b12a-5043a97c17e8
+info 23:39:38.785: Disposing HostJupyterExecution f3745c4b-d1ff-4e20-8836-e361776c4286
+info 23:39:38.785: Disposing super HostJupyterExecution f3745c4b-d1ff-4e20-8836-e361776c4286
+info 23:39:38.786: Disposing HostJupyterExecution f3745c4b-d1ff-4e20-8836-e361776c4286
+info 23:39:38.786: Finished disposing HostJupyterExecution  f3745c4b-d1ff-4e20-8836-e361776c4286
+info 23:39:38.809: Cleaning up server cache f3745c4b-d1ff-4e20-8836-e361776c4286
+info 23:39:38.811: Finished disposing HostJupyterExecution  f3745c4b-d1ff-4e20-8836-e361776c4286

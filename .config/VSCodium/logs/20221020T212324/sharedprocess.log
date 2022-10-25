@@ -1,0 +1,8 @@
+[2022-10-20 21:23:39.603] [sharedprocess] [info] Starting worker process with pid 1080 (type: fileWatcher, window: 1).
+[2022-10-20 21:23:41.805] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-20 21:23:47.910] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-20 21:24:00.734] [sharedprocess] [info] Worker process with pid 1080 terminated normally (type: fileWatcher, window: 1).
+[2022-10-20 21:24:06.415] [sharedprocess] [info] Starting worker process with pid 1192 (type: fileWatcher, window: 1).
+[2022-10-20 21:24:18.746] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-20 21:24:20.306] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-10-20 21:24:20.313] [sharedprocess] [info] Extensions is already requested to install eamodio.gitlens

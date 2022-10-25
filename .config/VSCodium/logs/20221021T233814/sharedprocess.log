@@ -1,0 +1,7 @@
+[2022-10-21 23:38:30.671] [sharedprocess] [info] Starting worker process with pid 2738 (type: fileWatcher, window: 1).
+[2022-10-21 23:38:30.679] [sharedprocess] [info] Starting worker process with pid 2739 (type: fileWatcher, window: 2).
+[2022-10-21 23:38:50.584] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-21 23:38:50.848] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-21 23:38:50.961] [sharedprocess] [info] Worker process with pid 2739 terminated normally (type: fileWatcher, window: 2).
+[2022-10-21 23:38:52.247] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-10-21 23:38:52.256] [sharedprocess] [info] Extensions is already requested to install eamodio.gitlens

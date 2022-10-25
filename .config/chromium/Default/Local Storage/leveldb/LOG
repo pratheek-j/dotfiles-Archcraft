@@ -1,0 +1,6 @@
+2022/10/25-21:40:12.922 6 Reusing MANIFEST /home/pratheek/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/25-21:40:12.924 6 Recovering log #17
+2022/10/25-21:40:12.951 6 Reusing old log /home/pratheek/.config/chromium/Default/Local Storage/leveldb/000017.log 
+2022/10/25-22:27:59.784 1f Level-0 table #22: started
+2022/10/25-22:27:59.913 1f Level-0 table #22: 18615 bytes OK
+2022/10/25-22:27:59.961 1f Delete type=0 #17
